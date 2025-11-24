@@ -1,6 +1,5 @@
-#C-2
-program to add 3 numbers 
-#include<stdio.h>
+#c-2
+include<stdio.h>
 int main()
 {
 float length,width,area;
