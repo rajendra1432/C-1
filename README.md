@@ -1,4 +1,4 @@
-#c-2
+#C-2
 include<stdio.h>
 int main()
 {
