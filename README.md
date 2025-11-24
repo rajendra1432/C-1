@@ -1,5 +1,5 @@
 #C-2
-program to add 2 numbers 
+program to add 3 numbers 
 #include<stdio.h>
 int main()
 {
