@@ -4,7 +4,7 @@ int main()
 {
 float length,width,area;
 printf("Enyer the value of length:");
-sacnf("%f",&length);
+scanf("%f",&length);
 printf("Enter the value of width:");
 scanf("%f",&width);
 area=length * width;
